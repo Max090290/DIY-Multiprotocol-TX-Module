@@ -41,7 +41,7 @@
 //Modify the channel order based on your TX: AETR, TAER, RETA...
 //Examples: Flysky & DEVO is AETR, JR/Spektrum radio is TAER, Multiplex is AERT...
 //Default is AETR.
-#define AETR
+#define TAER
 
 //Uncomment to reverse the direction of the specified channel for all protocols
 //#define REVERSE_AILERON
